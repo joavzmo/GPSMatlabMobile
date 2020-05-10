@@ -3,4 +3,4 @@
 
 Check the [report](GPSMatlabMobile_main.pdf).
 
-![leuven](out/map_walk.png)
+![leuven](out/map_walk.PNG)
